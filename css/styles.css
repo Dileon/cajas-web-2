@@ -1,0 +1,45 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+.cajaVerde {
+    height: 20rem;
+    background-color: greenyellow;
+}
+
+.cajaroja{
+    background-color: red;
+    height: 20rem;
+}
+
+.cajaAzul{
+    background-color: blue;
+}
+
+.cajaMorada{
+    background-color: blueviolet;
+    height: 20rem;
+}
+.cajaVerdeclarita{
+    background-color: green;
+    height: 400px;
+    padding: 100px;
+}
+
+.cajaAmarilla{
+    background-color: yellow;
+    padding: 0px;
+}
+
+.cajaAmarillaclarita{
+    background-color: yellowgreen;
+    height: 30px;
+    padding: 50px;
+    justify-content: end;
+}
+
+.cajadino {
+    float: left;
+}
