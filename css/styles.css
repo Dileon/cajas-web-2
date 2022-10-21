@@ -19,7 +19,7 @@ padding: 0;
 }
 
 .cajaMorada{
-    background-color: blueviolet;
+    background-color: rgb(249, 262, 49);
     height: 20rem;
 }
 .cajaVerdeclarita{
@@ -43,3 +43,21 @@ padding: 0;
 .cajadino {
     float: left;
 }
+
+.lol {
+    margin: 0 auto;
+    height: 100%;
+    font-size: 12px;
+    background-color: white
+}
+
+.lol img {
+    height: 54%;
+}
+ .card-body{
+     background-color: rgb(164 203 79);
+ } 
+
+.xdlol p {
+    display: inline-block;font-size: 24px; color: black;}
+
